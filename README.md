@@ -3,6 +3,7 @@
 
 - [Leetcode 题解](https://github.com/Yoriskkk/CS-NOTE/blob/master/notes/Leetcode%20题解%20-%20目录.md)
 - [剑指 Offer 题解](https://github.com/Yoriskkk/CS-NOTE/blob/master/notes/剑指%20Offer%20题解%20-%20目录.md)
+- [极客大学训练营 题解](https://github.com/Yoriskkk/CS-NOTE/blob/master/notes/极客大学训练营题解%20-%20目录.md)
 ## :computer: 中间件
 
 ## :cloud: 基础
